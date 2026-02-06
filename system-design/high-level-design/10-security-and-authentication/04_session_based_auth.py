@@ -1,0 +1,1 @@
+# Session-Based Authentication — placeholder
